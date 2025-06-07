@@ -5,5 +5,5 @@ const homeScreenHousesPictureElementStyle =
   document.getElementById('contact-page-home').style;
 
 if (isWebsiteUsedByMobileDevice()) {
-  homeScreenHousesPictureElementStyle.backgroundImage = `url(\"friendlyTourAssets/rila_lakes_gorica_merged.png\")`;
+  homeScreenHousesPictureElementStyle.backgroundImage = `url(\"friendlyTourAssets/seven-rila-lakes-how-to-get-to-1025x682.jpeg\")`;
 }

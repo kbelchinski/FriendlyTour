@@ -5,5 +5,5 @@ const homeScreenHousesPictureElementStyle =
   document.getElementById('contact-page-home').style;
 
 if (isWebsiteUsedByMobileDevice()) {
-  homeScreenHousesPictureElementStyle.backgroundImage = `url(\"assets/img/mediGuestHoudeMergerVertically.jpg\")`;
+  homeScreenHousesPictureElementStyle.backgroundImage = `url(\"friendlyTourAssets/rila_lakes_gorica_merged.png\")`;
 }

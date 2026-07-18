@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:FriendlyTour;Transfers;;;
+FN:FriendlyTour Transfers
+ORG:FriendlyTour
+TITLE:Private Transfer & Shuttle Service
+TEL;TYPE=CELL,VOICE:+359897335687
+TEL;TYPE=CELL,VOICE:+359897335688
+EMAIL;TYPE=INTERNET,PREF:friendly.tour@gmail.com
+EMAIL;TYPE=INTERNET:friendly.tour@abv.bg
+ADR;TYPE=WORK:;;Sapareva Banya;;;;Bulgaria
+URL:https://friendlytour.bg
+NOTE:Private transfers - Sofia Airport, Sapareva Banya and the Seven Rila Lakes.
+END:VCARD
